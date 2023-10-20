@@ -18,7 +18,7 @@ The application features includes:
 [Live Demo](https://cush-stocks.herokuapp.com/)
 
 ## Video Presentation
-[YouTube Link](https://youtu.be/l5s8WUlm1L8)
+[YouTube Link](https://youtu.be/)
 
 ## Getting Started
 
@@ -72,11 +72,11 @@ Fire up your app by running `heroku open` Yay!!! your app has been deployed succ
 
 # Authors
 
-👤 **Uduak Essien**
+👤 **MANISH**
 
-- Github: [@acushlakoncept](https://github.com/acushlakoncept/)
-- Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
-- Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
+- Github: [@acushlakoncept](https://github.com/)
+- Twitter: [@acushlakoncept](https://twitter.com/)
+- Linkedin: [acushlakoncept](https://www.linkedin.com/in/)
 
 ## 🤝 Contributing
 
